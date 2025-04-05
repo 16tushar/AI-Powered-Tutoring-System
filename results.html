@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Results</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: url('https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgj9rcblzerc7f7vz551s.png') no-repeat center center/cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            color: white;
+        }
+        .container {
+            width: 50%;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.2);
+            text-align: center;
+            backdrop-filter: blur(10px);
+        }
+        h1, h2 {
+            color: white;
+        }
+        p {
+            font-size: 18px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: rgba(188, 190, 190, 0.11);
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 8px;
+            transition: 0.3s;
+        }
+        li:hover {
+            background: rgba(255, 255, 255, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Your Results</h1>
+        <p>Your IQ Score: {{ iq_score }}</p>
+        <p>Score: {{ score }}/{{ correct_answers|length }}</p>
+        <p>Recommendation: {{ recommendation }}</p>
+        <h2>Correct Answers</h2>
+        <ul>
+              {% for question, answer in correct_answers.items() %}
+        <li><strong>{{ question }}:</strong> {{ answer }}</li>
+    		{% endfor %}<a href="test">Take Another Test</a>
+        </ul>
+	<h3>Your Previous Attempts</h3>
+<table border="1">
+    <tr>
+        <th>Score</th>
+        <th>Total Questions</th>
+        <th>IQ Score</th>
+    </tr>
+    {% for attempt in past_attempts %}
+    <tr>
+        <td>{{ attempt[0] }}</td>
+        <td>{{ attempt[1] }}</td>
+        <td>{{ attempt[2] }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+    </div>
+</body>
+</html>
+
+
+
+
