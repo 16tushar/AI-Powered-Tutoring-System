@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MCQ Test</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: url('https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgj9rcblzerc7f7vz551s.png') no-repeat center center/cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            color: white;
+        }
+        .container {
+            width: 50vw;
+            height: 100vh;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.2);
+            text-align: center;
+            backdrop-filter: blur(10px);
+            overflow:auto;
+        }
+        h1 {
+            color: white;
+        }
+        p {
+            font-size: 18px;
+        }
+        input[type="radio"] {
+            margin: 10px;
+            transform: scale(1.2);
+        }
+        button {
+            background: linear-gradient(135deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        button:hover {
+            transform: scale(1.05);
+            box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>MCQ Test - {{ subject }}</h2>
+        <form action="/submit" method="POST">
+            {% for question in questions %}
+                <p><strong>{{ question['question'] }}</strong></p>
+                <input type="radio" name="{{ question['question'] }}" value="{{ question['option1'] }}" required>
+                {{ question['option1'] }} <br>
+                
+                <input type="radio" name="{{ question['question'] }}" value="{{ question['option2'] }}">
+                {{ question['option2'] }} <br>
+                
+                <input type="radio" name="{{ question['question'] }}" value="{{ question['option3'] }}">
+                {{ question['option3'] }} <br>
+                
+                <input type="radio" name="{{ question['question'] }}" value="{{ question['option4'] }}">
+                {{ question['option4'] }} <br>
+            {% endfor %} 
+            <button type="submit">Submit Test</button>
+        </form>
+    </div>
+</body>
+</html>
