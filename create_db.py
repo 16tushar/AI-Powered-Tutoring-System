@@ -1,3 +1,4 @@
+#To Create Database
 import sqlite3
 
 conn = sqlite3.connect("database.db")
