@@ -1,0 +1,501 @@
+Name,Gender,Phone Number,Age,Indian City,Indian State,Track,Time Used Per Day (hrs),Speed of Learning (1-10),Assessment Score,Historical Assessment Average
+VivaanSharma,Male,+91 6238846143,5,Agra,Uttar Pradesh,History,6.14,2.8,83,54.41
+KiaraSharma,Female,+91 8385681260,11,Hyderabad,Telangana,Politics,7.26,4.35,65,55.34
+MyraKhan,Female,+91 8372960268,10,Visakhapatnam,Andhra Pradesh,Mathematics,6.15,2.49,96,60.26
+RohanVerma,Male,+91 8403856921,14,Bhubaneswar,Odisha,Basic Coding Languages,3.6,3.33,86,81.35
+SiyaSingh,Female,+91 9904933545,4,Hyderabad,Telangana,Science,1.06,1.59,87,62.14
+MyraJoshi,Female,+91 8510431242,5,Ranchi,Jharkhand,Geography,6.97,4.88,68,58.61
+DiyaPatel,Female,+91 9278135509,11,Guwahati,Assam,Language,3.56,5.4,54,51.29
+KaranReddy,Male,+91 7714862151,3,Varanasi,Uttar Pradesh,Science,3.05,4.64,94,58.73
+MyraPatel,Female,+91 6543154959,22,Ahmedabad,Gujarat,Geography,2.23,2.46,69,57.39
+IshanKhan,Male,+91 8097154688,20,Ahmedabad,Gujarat,Geography,1.8,5.17,98,60.98
+AdityaJoshi,Male,+91 8694231170,21,Patna,Bihar,Philosophy,5.85,1.88,89,77.35
+AaravSharma,Male,+91 9888413027,6,Jaipur,Rajasthan,Language,3.24,1.51,97,76.47
+AryanJoshi,Male,+91 7680935186,5,Visakhapatnam,Andhra Pradesh,Mathematics,3.59,5.93,54,53.38
+KaranYadav,Male,+91 9660762105,17,Surat,Gujarat,Economics,5.56,6.85,82,80.85
+DiyaJoshi,Female,+91 8730474483,21,Thiruvananthapuram,Kerala,Geography,7.53,3.27,78,57.78
+DiyaKumar,Female,+91 7456666387,11,Guwahati,Assam,History,7.61,7.7,88,78.24
+VivaanJoshi,Male,+91 6274114850,14,Raipur,Chhattisgarh,Economics,7.43,2.74,77,57.85
+DiyaSingh,Female,+91 6519624197,7,Visakhapatnam,Andhra Pradesh,Economics,1.1,2.26,61,60.63
+SiyaReddy,Female,+91 7291036551,15,Raipur,Chhattisgarh,History,3.99,9.53,99,83.92
+AadyaKumar,Female,+91 6926703052,6,Thiruvananthapuram,Kerala,Science,3.52,5.99,56,51.69
+ArjunSingh,Male,+91 7709860805,7,Surat,Gujarat,Economics,5.4,8.48,88,64.47
+AryanYadav,Male,+91 7074001871,19,Visakhapatnam,Andhra Pradesh,Geography,7.18,1.79,59,57.09
+AaravKhan,Male,+91 6052701500,8,Ranchi,Jharkhand,Science,2.22,7.98,87,75.36
+AryanKhan,Male,+91 9731584198,17,Agra,Uttar Pradesh,Politics,6.95,3.06,89,74.57
+VivaanYadav,Male,+91 6002701077,18,Guwahati,Assam,Basic Coding Languages,4.16,9.98,92,70.64
+AadyaGupta,Female,+91 6609380816,12,Coimbatore,Tamil Nadu,History,5.51,1.5,100,63.63
+IraGupta,Female,+91 8033731621,16,Mysore,Karnataka,History,6.12,2.92,98,58.85
+KaranVerma,Male,+91 6451789017,20,Patna,Bihar,Economics,2.27,2.17,88,56.37
+MyraReddy,Female,+91 8401710283,14,Indore,Madhya Pradesh,Language,3.82,8.33,96,88.73
+AdityaVerma,Male,+91 8085169286,6,Agra,Uttar Pradesh,History,5.57,3.72,84,69.17
+MyraVerma,Female,+91 8757099905,20,Visakhapatnam,Andhra Pradesh,Language,4.87,3.92,66,64.87
+AryanYadav,Male,+91 7995583999,9,Dehradun,Uttarakhand,Geography,3.49,5.65,86,67.08
+ReyanshKumar,Male,+91 8854435504,6,Hyderabad,Telangana,Politics,2.46,3.74,83,79.99
+VivaanVerma,Male,+91 9022695565,18,Lucknow,Uttar Pradesh,Economics,1.87,8.82,87,61.66
+AryanJoshi,Male,+91 7302774442,4,Ranchi,Jharkhand,History,6.41,3.46,72,70.61
+NavyaVerma,Female,+91 9029582607,17,Dehradun,Uttarakhand,Basic Coding Languages,3.66,1.05,51,50.21
+RohanReddy,Male,+91 7275207920,17,Ahmedabad,Gujarat,Basic Coding Languages,4.95,7.5,67,59.72
+AanyaYadav,Female,+91 9899880445,12,Raipur,Chhattisgarh,Science,2.32,2.12,74,71.01
+KaranJoshi,Male,+91 6250965871,19,Dehradun,Uttarakhand,Philosophy,4.44,6,55,52.65
+MyraReddy,Female,+91 8751084643,7,Hyderabad,Telangana,Science,5.05,6.17,82,54.35
+KiaraKhan,Female,+91 7732276379,17,Ahmedabad,Gujarat,Geography,2.93,4.39,78,52.72
+AanyaSingh,Female,+91 6769713914,9,Visakhapatnam,Andhra Pradesh,Language,7.4,8,56,52.15
+AnanyaGupta,Female,+91 6702498880,20,Kolkata,West Bengal,Basic Coding Languages,3.19,5.9,85,83.46
+IshanVerma,Male,+91 8986990216,3,Coimbatore,Tamil Nadu,Mathematics,2.55,5.97,64,63.66
+AdityaKumar,Male,+91 9012534945,17,Ranchi,Jharkhand,Science,2.97,6.16,94,87.68
+KiaraKumar,Female,+91 8611464529,21,Ranchi,Jharkhand,Philosophy,6.89,4.66,84,55.13
+IshanGupta,Male,+91 7723916245,12,Guwahati,Assam,Basic Coding Languages,1.49,6.43,56,55.51
+RohanPatel,Male,+91 8126004038,11,Jaipur,Rajasthan,Economics,3.59,6.64,59,53.91
+MyraReddy,Female,+91 7219377553,5,Raipur,Chhattisgarh,Geography,7.32,8.3,93,68.88
+NavyaSingh,Female,+91 7271340033,22,Kolkata,West Bengal,Basic Coding Languages,2.22,8.04,79,62.94
+AdityaReddy,Male,+91 9344040754,11,Nashik,Maharashtra,Language,4.34,5,88,83.91
+AryanYadav,Male,+91 9176787782,14,Bhubaneswar,Odisha,Mathematics,5.16,3.63,86,82.25
+PariSingh,Female,+91 8419593880,11,Ahmedabad,Gujarat,Mathematics,5.4,4.07,76,51.61
+DiyaVerma,Female,+91 9616613569,18,Ranchi,Jharkhand,Geography,3.66,1.19,68,64.42
+SiyaPatel,Female,+91 6268192294,13,Hyderabad,Telangana,Language,6.3,9.28,54,50.83
+IraSingh,Female,+91 9883098984,21,Ludhiana,Punjab,Basic Coding Languages,6.73,5.26,100,53.15
+IraVerma,Female,+91 7849280775,6,Surat,Gujarat,Language,2.43,9.43,61,59.07
+PariSingh,Female,+91 7489581703,20,Kochi,Kerala,Geography,1.09,1,51,50.25
+AadyaReddy,Female,+91 6572996899,10,Raipur,Chhattisgarh,Geography,4.75,8.48,80,54.82
+IshanKhan,Male,+91 9298426432,20,Patna,Bihar,Mathematics,1.67,3.12,100,65.32
+RohanYadav,Male,+91 8589928725,8,Nagpur,Maharashtra,Geography,1.41,3.34,95,69.92
+AryanVerma,Male,+91 8463271631,3,Patna,Bihar,Economics,5.77,8.06,76,54.59
+NavyaSingh,Female,+91 7128712520,20,Visakhapatnam,Andhra Pradesh,History,4.1,2.58,86,82.95
+ReyanshGupta,Male,+91 9602499550,20,Indore,Madhya Pradesh,Mathematics,1.84,1.49,70,68.76
+AanyaGupta,Female,+91 7973597882,19,Ludhiana,Punjab,Economics,5.27,2.42,65,58.77
+IraKhan,Female,+91 8823265811,22,Bengaluru,Karnataka,Language,3.2,3.04,82,71.25
+VivaanYadav,Male,+91 7380589706,3,Bhubaneswar,Odisha,Language,1.87,1.57,85,62.15
+SiyaSharma,Female,+91 9317130121,20,Ranchi,Jharkhand,Language,1.33,1.05,96,66.47
+ShauryaReddy,Male,+91 9759748795,16,Hyderabad,Telangana,Geography,7.23,2.7,94,85.25
+AanyaPatel,Female,+91 6027682215,7,Ranchi,Jharkhand,Politics,3.67,1.6,71,70.88
+ShauryaKumar,Male,+91 7669141616,19,Visakhapatnam,Andhra Pradesh,Language,1.78,8.78,78,56.28
+MyraSingh,Female,+91 6265435217,16,Ludhiana,Punjab,Geography,7.47,3.92,61,53.6
+AdityaJoshi,Male,+91 7373470656,17,Nashik,Maharashtra,Science,1.08,1.47,59,55.36
+AaravKumar,Male,+91 6087438490,11,Dehradun,Uttarakhand,Politics,7.61,3.82,90,66.66
+AnanyaVerma,Female,+91 7359261088,21,Ahmedabad,Gujarat,Economics,5.71,3.16,52,51.95
+ShauryaKhan,Male,+91 6714606461,17,Patna,Bihar,History,3.73,8.26,81,63.64
+IshanKumar,Male,+91 8881283025,11,Dehradun,Uttarakhand,Geography,2.36,9.98,93,60.11
+DiyaGupta,Female,+91 9233642924,9,Dehradun,Uttarakhand,Politics,6.38,8,93,54.93
+RohanYadav,Male,+91 8497786637,18,Bhubaneswar,Odisha,Philosophy,5.69,7.78,98,74.25
+ArjunVerma,Male,+91 7451655192,20,Jaipur,Rajasthan,Language,7.25,4.14,81,75.73
+AaravYadav,Male,+91 6026427131,21,Kolkata,West Bengal,Mathematics,5.75,1.31,68,65.01
+ShauryaGupta,Male,+91 6821948715,21,Raipur,Chhattisgarh,Mathematics,3.41,7.27,99,77.37
+IraJoshi,Female,+91 8082384793,15,Bhubaneswar,Odisha,Politics,5.12,9.84,89,56.64
+AnanyaReddy,Female,+91 9934742352,14,Dehradun,Uttarakhand,Mathematics,7.43,7.05,84,74.67
+AanyaSharma,Female,+91 6293849390,19,Nashik,Maharashtra,Science,4.52,1.83,59,56.82
+AryanKumar,Male,+91 6130993006,11,Pune,Maharashtra,Language,5.81,8.33,100,69.48
+IshanReddy,Male,+91 6652231219,18,Hyderabad,Telangana,Geography,3.03,5.41,65,56.76
+KiaraSingh,Female,+91 6494907890,14,Jaipur,Rajasthan,Science,2.44,4.34,78,74.54
+MyraYadav,Female,+91 7743658979,13,Visakhapatnam,Andhra Pradesh,Basic Coding Languages,1.91,1.83,84,75.37
+AanyaVerma,Female,+91 9495288549,14,Ranchi,Jharkhand,Politics,5.3,7.62,68,58.56
+NavyaVerma,Female,+91 9816619948,21,Mysore,Karnataka,Mathematics,4.24,1.55,75,62.27
+ArjunKhan,Male,+91 6910535300,17,Meerut,Uttar Pradesh,Language,1.31,1.06,58,54.12
+IshanGupta,Male,+91 8233282872,7,Patna,Bihar,Mathematics,2.24,1.24,90,69.05
+AnanyaKumar,Female,+91 6702053251,22,Hyderabad,Telangana,Basic Coding Languages,5.12,9.56,87,67.1
+ArjunSingh,Male,+91 6700002930,14,Indore,Madhya Pradesh,Mathematics,2.7,9.34,55,53.28
+AaravSharma,Male,+91 8987184164,9,Ludhiana,Punjab,History,3.68,7.24,83,61.99
+MyraGupta,Female,+91 6367094494,3,Raipur,Chhattisgarh,Economics,5.24,9.85,91,52.58
+SiyaReddy,Female,+91 9097752072,9,Chennai,Tamil Nadu,Science,4.63,5.35,62,54.13
+NavyaGupta,Female,+91 9312896659,13,Visakhapatnam,Andhra Pradesh,Science,7.89,5.39,67,56.13
+VivaanYadav,Male,+91 7527663883,13,Bengaluru,Karnataka,Economics,6.14,6.4,72,70.97
+KiaraVerma,Female,+91 9280987521,22,Thiruvananthapuram,Kerala,Science,6.62,8.23,58,50.51
+PariSingh,Female,+91 8059408283,19,Ranchi,Jharkhand,Language,6.18,2.79,95,94.78
+RohanKumar,Male,+91 8755619748,17,Mumbai,Maharashtra,Geography,2.01,4.65,99,92.21
+AnanyaGupta,Female,+91 7298775272,20,Bhubaneswar,Odisha,Language,2.25,2.62,96,79.41
+ReyanshPatel,Male,+91 8131832416,16,Kolkata,West Bengal,Mathematics,6.16,2.6,89,59.71
+AadyaKhan,Female,+91 6219331387,6,Ludhiana,Punjab,Mathematics,1.97,1.52,85,54.77
+AryanGupta,Male,+91 7432140800,22,Dehradun,Uttarakhand,Economics,3.02,7.68,57,51.41
+AryanPatel,Male,+91 6503082841,15,Ranchi,Jharkhand,Science,5.76,8.62,74,59.2
+PariYadav,Female,+91 6780929949,18,Madurai,Tamil Nadu,Geography,4.58,7.25,100,76.25
+ArjunPatel,Male,+91 7696723475,16,Indore,Madhya Pradesh,History,3.76,2.46,86,53.11
+DiyaSharma,Female,+91 7782410555,14,Patna,Bihar,Mathematics,6.42,7.57,98,64.35
+ArjunPatel,Male,+91 8024976524,20,Ahmedabad,Gujarat,Science,6.07,8.23,94,81.39
+VivaanKhan,Male,+91 7531010666,16,Hyderabad,Telangana,Science,1.54,1.58,64,53.42
+MyraKumar,Female,+91 7265492679,3,Kolkata,West Bengal,History,7.19,4.9,56,50.88
+KaranJoshi,Male,+91 7822800050,3,Agra,Uttar Pradesh,Politics,3.52,6.35,74,67.52
+AaravSharma,Male,+91 6185967805,11,Ahmedabad,Gujarat,Language,7.12,5.38,87,71.11
+KaranYadav,Male,+91 8133831654,13,Indore,Madhya Pradesh,Language,1.14,2.21,94,66.76
+IshanVerma,Male,+91 9970859777,14,Guwahati,Assam,Language,5.17,8.05,96,79.44
+IshanKhan,Male,+91 6982738711,17,Visakhapatnam,Andhra Pradesh,Science,3.74,2.46,80,71.22
+ShauryaGupta,Male,+91 8767421594,13,Patna,Bihar,Mathematics,7.79,9.03,52,51.22
+SiyaSharma,Female,+91 8488008952,12,Hyderabad,Telangana,Basic Coding Languages,3.7,3.93,62,61.46
+AnanyaKhan,Female,+91 9547160158,4,Kolkata,West Bengal,Economics,1.32,8.85,88,77.2
+AadyaKhan,Female,+91 9018244494,16,Indore,Madhya Pradesh,History,1.16,1.98,59,53.52
+AryanPatel,Male,+91 7602434679,7,Raipur,Chhattisgarh,Language,7.62,8.83,77,66.58
+RohanVerma,Male,+91 9524458557,3,Indore,Madhya Pradesh,Language,3.79,2.57,85,69.76
+AryanJoshi,Male,+91 7183849227,5,Raipur,Chhattisgarh,Economics,3.78,3.26,54,53.84
+MyraReddy,Female,+91 9079731777,16,Patna,Bihar,Geography,5.6,5.9,95,74.81
+PariGupta,Female,+91 6253560100,9,Ludhiana,Punjab,Science,7.3,7.55,84,79.86
+PariSharma,Female,+91 9841120223,7,Guwahati,Assam,History,5.76,6.91,59,51.22
+ReyanshKumar,Male,+91 7366692034,14,Hyderabad,Telangana,History,3.52,3.28,50,50
+AanyaKhan,Female,+91 6124378675,15,Hyderabad,Telangana,Mathematics,6.64,3.97,70,69.7
+KiaraSharma,Female,+91 6788440209,8,Dehradun,Uttarakhand,Geography,6.78,3.58,65,64.31
+DiyaJoshi,Female,+91 8242191058,15,Bengaluru,Karnataka,History,3.06,9.02,51,50.91
+NavyaPatel,Female,+91 6279380668,13,Indore,Madhya Pradesh,Science,4.85,6.84,51,50.49
+AaravJoshi,Male,+91 6278487647,11,Nashik,Maharashtra,Science,5.8,7.49,82,50.6
+AaravKhan,Male,+91 7812425793,10,Raipur,Chhattisgarh,History,2.79,9.54,74,66.13
+AadyaSingh,Female,+91 7856991743,9,Bhubaneswar,Odisha,Language,7.8,3.01,64,55.23
+KiaraGupta,Female,+91 9182469520,7,Ranchi,Jharkhand,Economics,1.14,2.42,69,55.26
+PariKumar,Female,+91 8938061108,13,Guwahati,Assam,Geography,5.11,9.07,87,73.66
+RohanJoshi,Male,+91 7528713465,21,Varanasi,Uttar Pradesh,Philosophy,4.91,3.16,64,62.59
+AaravSharma,Male,+91 9039612450,8,Jaipur,Rajasthan,Language,6,6.58,63,58.69
+ArjunYadav,Male,+91 6124023088,8,Pune,Maharashtra,Science,1.56,3.18,89,58.47
+ShauryaKhan,Male,+91 7181884947,6,Ludhiana,Punjab,Science,2.41,2.42,52,51.47
+RohanKumar,Male,+91 8360294783,15,Ranchi,Jharkhand,Geography,6.88,7.1,99,82.31
+IshanKhan,Male,+91 6557900319,4,Jaipur,Rajasthan,Economics,1.55,9.4,91,77.28
+AnanyaPatel,Female,+91 6074407689,19,Varanasi,Uttar Pradesh,Economics,1.01,6.49,85,82.57
+AryanKumar,Male,+91 6991015681,11,Kozhikode,Kerala,Basic Coding Languages,5.81,3.25,53,52.48
+ShauryaSharma,Male,+91 6633898836,16,Madurai,Tamil Nadu,Basic Coding Languages,7.88,1.89,81,53.53
+IraKhan,Female,+91 9900382380,19,Guwahati,Assam,Basic Coding Languages,5.27,9.65,72,66.76
+SiyaJoshi,Female,+91 9007408106,21,Patna,Bihar,Philosophy,4.65,1.98,96,67.14
+RohanKhan,Male,+91 6520213997,9,Ahmedabad,Gujarat,Politics,6.47,2.2,52,50.29
+AanyaVerma,Female,+91 9023135816,14,Kolkata,West Bengal,Geography,5.4,5.02,65,53.55
+AanyaVerma,Female,+91 9658029165,18,Patna,Bihar,Geography,7.15,4.1,83,56.06
+AryanKumar,Male,+91 7623231343,18,Indore,Madhya Pradesh,Geography,3.53,2.77,60,50.16
+AnanyaJoshi,Female,+91 8933812027,8,Kolkata,West Bengal,Language,5.59,5.2,53,50.48
+ArjunGupta,Male,+91 9364169505,21,Dehradun,Uttarakhand,Mathematics,3.07,9.3,89,74.53
+IraPatel,Female,+91 6161051352,5,Ludhiana,Punjab,Politics,3.37,3.58,66,56.23
+AryanSingh,Male,+91 8854510876,22,Indore,Madhya Pradesh,Basic Coding Languages,5.38,9.13,56,53.02
+KaranGupta,Male,+91 9443064301,21,Hyderabad,Telangana,Politics,4.54,4.3,74,73.11
+RohanVerma,Male,+91 8277895777,8,Ludhiana,Punjab,Geography,6.24,5.22,98,76.51
+KaranPatel,Male,+91 6946696281,4,Indore,Madhya Pradesh,Politics,1.44,8.03,81,71.73
+IshanReddy,Male,+91 6062725699,5,Guwahati,Assam,Geography,3.84,6.07,81,50.5
+KiaraYadav,Female,+91 8951316220,11,Guwahati,Assam,Basic Coding Languages,4.5,7.63,60,57.54
+AdityaKumar,Male,+91 7765510128,17,Guwahati,Assam,Mathematics,5.25,3.91,75,68.33
+RohanJoshi,Male,+91 9384518661,6,Indore,Madhya Pradesh,Geography,6.5,5.25,96,59.73
+NavyaSingh,Female,+91 7161167373,22,Indore,Madhya Pradesh,Philosophy,4.97,3.08,60,54.15
+KiaraGupta,Female,+91 6354591853,17,Kochi,Kerala,Politics,2.39,5.7,61,60.48
+SiyaKhan,Female,+91 9737485455,17,Varanasi,Uttar Pradesh,Philosophy,2.84,5.08,54,51.7
+AaravReddy,Male,+91 6908402096,14,Hyderabad,Telangana,Language,1.71,3.96,65,63.26
+IshanVerma,Male,+91 7712739445,6,Dehradun,Uttarakhand,Mathematics,5.73,8.19,55,52.84
+AaravSharma,Male,+91 7278870729,20,Dehradun,Uttarakhand,Politics,3.35,8.39,54,50.79
+PariVerma,Female,+91 6820952807,5,Lucknow,Uttar Pradesh,Science,6.95,7.83,77,74.93
+NavyaGupta,Female,+91 9348027782,19,Indore,Madhya Pradesh,History,3.22,1.07,57,51.21
+AnanyaSharma,Female,+91 9450525013,15,Ludhiana,Punjab,Science,1.76,6.6,95,67.66
+KiaraJoshi,Female,+91 9120519014,6,Bhubaneswar,Odisha,Geography,4.18,3.65,76,58.87
+RohanJoshi,Male,+91 8534324851,16,Madurai,Tamil Nadu,Basic Coding Languages,7.82,3.54,64,53.26
+MyraYadav,Female,+91 9910971451,7,Surat,Gujarat,Economics,6.88,4,56,51.9
+KaranVerma,Male,+91 9525016269,7,Mumbai,Maharashtra,Geography,5.92,6.28,55,50.78
+AadyaYadav,Female,+91 7905428465,6,Pune,Maharashtra,Geography,4.05,1.03,81,75.59
+DiyaPatel,Female,+91 6438751924,5,Hyderabad,Telangana,Language,6.97,4.32,55,52.64
+AadyaSharma,Female,+91 7596855312,18,Kochi,Kerala,Philosophy,2.23,4.35,87,55.62
+KiaraGupta,Female,+91 6873419907,6,Kolkata,West Bengal,Economics,6.98,8.86,55,53.06
+NavyaJoshi,Female,+91 9058031309,20,Patna,Bihar,Economics,3.75,6.5,94,79.1
+DiyaGupta,Female,+91 8204127536,20,Bhubaneswar,Odisha,Mathematics,3.54,6.58,69,65.54
+KaranJoshi,Male,+91 8998847736,14,Nagpur,Maharashtra,Geography,5.98,1.5,57,50.65
+NavyaSharma,Female,+91 6205842601,19,Raipur,Chhattisgarh,Language,7.04,2.63,65,63.48
+SiyaPatel,Female,+91 7041764812,10,Pune,Maharashtra,Science,2.57,2.54,62,55.48
+KaranGupta,Male,+91 6096853242,5,Mumbai,Maharashtra,Economics,4.55,8.52,82,71.42
+AadyaKhan,Female,+91 8433383655,10,Kolkata,West Bengal,Basic Coding Languages,3.38,8.62,85,60.01
+AanyaGupta,Female,+91 9722774608,12,Nagpur,Maharashtra,Mathematics,3.46,1.4,52,51.48
+AnanyaKhan,Female,+91 8704120137,3,Bhubaneswar,Odisha,Economics,6.72,6.67,68,50.08
+PariYadav,Female,+91 6454592163,17,Dehradun,Uttarakhand,Politics,7.53,8.7,99,53.53
+AadyaPatel,Female,+91 6356725428,9,Ahmedabad,Gujarat,Basic Coding Languages,7.46,5.39,97,66.79
+VivaanVerma,Male,+91 9257940730,9,Mysore,Karnataka,Politics,2.84,2.15,89,67
+AanyaVerma,Female,+91 7024401671,18,Ahmedabad,Gujarat,Mathematics,2.86,4.07,95,84.63
+AaravSharma,Male,+91 7819135562,8,Ludhiana,Punjab,Economics,3.55,5.33,75,60.36
+KiaraGupta,Female,+91 8222625531,4,Bhubaneswar,Odisha,Mathematics,7.2,3.44,89,78.79
+AdityaKhan,Male,+91 7134640799,9,Kolkata,West Bengal,Politics,5.13,5.83,63,51.47
+RohanSingh,Male,+91 8331762323,10,Bhubaneswar,Odisha,Language,7.96,9.39,99,66.66
+AdityaGupta,Male,+91 8766779658,17,Nagpur,Maharashtra,Geography,4.99,6.93,50,50
+ReyanshSingh,Male,+91 7329751689,19,Kolkata,West Bengal,Mathematics,7.92,2.19,69,58.46
+AdityaReddy,Male,+91 7108601639,19,Surat,Gujarat,History,5.58,5.86,78,76.53
+AaravKumar,Male,+91 7101692423,8,Kanpur,Uttar Pradesh,History,5.63,3.25,60,50.74
+KaranSharma,Male,+91 7007648355,20,Guwahati,Assam,Mathematics,5.41,7.78,70,50.09
+RohanVerma,Male,+91 6528994478,21,Ranchi,Jharkhand,Mathematics,5.55,4.87,91,69.76
+IraPatel,Female,+91 8873994209,16,Bengaluru,Karnataka,Economics,5.77,6.24,81,66.3
+MyraKumar,Female,+91 7799732440,4,Hyderabad,Telangana,Science,2.85,7.1,63,53.16
+RohanVerma,Male,+91 8941718039,17,Guwahati,Assam,Language,3.68,4.35,57,56.28
+DiyaKumar,Female,+91 8077161387,15,Mysore,Karnataka,Politics,5.98,2.37,55,54.37
+DiyaJoshi,Female,+91 8151370168,11,Pune,Maharashtra,Geography,4.41,2.28,92,87.41
+DiyaYadav,Female,+91 9825967213,19,Ahmedabad,Gujarat,Language,2.05,2.04,51,50.76
+AaravVerma,Male,+91 8800452013,10,Raipur,Chhattisgarh,Economics,3.81,7.62,58,54.83
+NavyaVerma,Female,+91 6939720021,15,Jaipur,Rajasthan,Economics,5.89,4.34,90,86.23
+ShauryaSharma,Male,+91 7203585342,3,Raipur,Chhattisgarh,Science,1.77,1.36,85,83
+SiyaReddy,Female,+91 9181038492,21,Patna,Bihar,Mathematics,1.51,6.4,81,80.34
+IraVerma,Female,+91 6585428390,19,Visakhapatnam,Andhra Pradesh,Language,1.64,9.9,54,50.15
+ShauryaReddy,Male,+91 9051594699,7,Kochi,Kerala,Language,1.29,1.84,58,57.36
+AanyaPatel,Female,+91 6678334707,3,Coimbatore,Tamil Nadu,Language,7.85,6.86,77,50.6
+AdityaJoshi,Male,+91 9749672940,15,Ranchi,Jharkhand,Geography,3.78,1.75,78,75.61
+DiyaKhan,Female,+91 9000335090,13,Lucknow,Uttar Pradesh,Economics,1.34,8.76,72,56.57
+ShauryaKhan,Male,+91 9845435459,7,Jaipur,Rajasthan,Politics,5.13,3.27,94,78.11
+AdityaKhan,Male,+91 8801403131,10,Jaipur,Rajasthan,Politics,7.55,2,89,58.59
+IshanReddy,Male,+91 8926679448,17,Varanasi,Uttar Pradesh,History,1.93,8.74,92,53.51
+ArjunSingh,Male,+91 6473981145,11,Mumbai,Maharashtra,Science,5.18,5.83,78,71.49
+MyraReddy,Female,+91 8082470871,5,Kochi,Kerala,Mathematics,1.74,1.2,73,60.7
+VivaanSharma,Male,+91 9607318807,8,Bengaluru,Karnataka,Science,3.75,7.32,55,52.44
+IraKumar,Female,+91 8502761044,21,Indore,Madhya Pradesh,Mathematics,5.54,9.45,96,84.49
+PariSingh,Female,+91 6083435010,10,Kozhikode,Kerala,Geography,2.05,2.11,95,63.69
+AaravSingh,Male,+91 9972380073,9,Bhubaneswar,Odisha,Language,4.81,4.57,58,54.92
+IshanSingh,Male,+91 8697485216,11,Agra,Uttar Pradesh,Language,3.14,1.31,57,56.61
+PariKhan,Female,+91 9426518480,18,Guwahati,Assam,History,7.3,1.28,95,87.43
+VivaanYadav,Male,+91 8455924600,10,Ranchi,Jharkhand,Language,3.41,5.35,65,52.6
+MyraSingh,Female,+91 8022113877,14,Visakhapatnam,Andhra Pradesh,Language,2.38,9.51,68,57.4
+MyraJoshi,Female,+91 8223931892,7,Patna,Bihar,Geography,7.69,3,92,50.72
+AaravKumar,Male,+91 8098997147,8,Agra,Uttar Pradesh,History,6.09,9.23,69,59.76
+VivaanVerma,Male,+91 6208283594,10,Guwahati,Assam,History,3.17,3.52,67,60.15
+DiyaReddy,Female,+91 7251526296,18,Patna,Bihar,Science,3.89,7.05,93,89.91
+AaravGupta,Male,+91 6111129262,17,Varanasi,Uttar Pradesh,Politics,4.44,3.41,75,54.83
+PariKumar,Female,+91 8265187989,16,Indore,Madhya Pradesh,Mathematics,1.49,6.8,73,70.04
+AaravKhan,Male,+91 6297574015,12,Mysore,Karnataka,Science,4.22,2.02,83,82.15
+ShauryaVerma,Male,+91 6793971136,13,Pune,Maharashtra,Basic Coding Languages,3.87,3.1,63,60.34
+IraKhan,Female,+91 7200283252,10,Mumbai,Maharashtra,Politics,7.27,2.4,67,62.44
+IshanKhan,Male,+91 8152086274,8,Indore,Madhya Pradesh,Geography,6.25,8.76,82,64.9
+AdityaVerma,Male,+91 6925036991,19,Ranchi,Jharkhand,Philosophy,3.31,8.7,89,88.55
+ArjunGupta,Male,+91 9716735471,20,Lucknow,Uttar Pradesh,Economics,7.17,3.07,62,53.3
+ShauryaPatel,Male,+91 9105801225,20,Ranchi,Jharkhand,History,6.5,9.85,79,51.97
+AryanKhan,Male,+91 6503953124,17,Bhubaneswar,Odisha,Politics,7.55,4.35,99,86.75
+ShauryaPatel,Male,+91 6512031538,22,Mysore,Karnataka,Mathematics,7.45,9.08,55,54.96
+IshanGupta,Male,+91 7260810825,21,Kochi,Kerala,History,3.5,5.34,57,51.62
+AdityaKhan,Male,+91 8032069815,16,Dehradun,Uttarakhand,Geography,7.7,9.89,94,76.12
+MyraKumar,Female,+91 9748974370,21,Kolkata,West Bengal,Philosophy,4.51,4.6,95,72.31
+SiyaKhan,Female,+91 9039250825,18,Kanpur,Uttar Pradesh,Mathematics,6.76,3.65,59,52.47
+RohanSharma,Male,+91 6687500278,9,Nashik,Maharashtra,Mathematics,7.3,8.12,96,53.98
+SiyaSingh,Female,+91 7961244799,16,Dehradun,Uttarakhand,Mathematics,6.52,7.72,85,72.49
+AadyaYadav,Female,+91 8051818655,3,Bhubaneswar,Odisha,Science,4.4,9.61,99,69.98
+KaranKhan,Male,+91 9238445450,16,Chennai,Tamil Nadu,Language,5.92,9.01,78,69.38
+VivaanSingh,Male,+91 7894702872,22,Surat,Gujarat,Economics,4.06,2.45,62,58.6
+AadyaSingh,Female,+91 9842977052,14,Jaipur,Rajasthan,Language,2.83,7.34,71,63.51
+AaravSharma,Male,+91 6530810555,11,Pune,Maharashtra,Politics,3.93,4.83,58,57.92
+NavyaVerma,Female,+91 7970061390,20,Jaipur,Rajasthan,History,1.55,6.05,56,51.12
+AdityaSingh,Male,+91 8937721899,10,Nagpur,Maharashtra,Economics,7.38,1.9,88,75.44
+AryanReddy,Male,+91 8124219023,6,Mysore,Karnataka,Politics,7.61,8.14,66,52.74
+AaravJoshi,Male,+91 7170394577,16,Visakhapatnam,Andhra Pradesh,Economics,5.36,6.68,60,54.17
+ArjunVerma,Male,+91 9684018442,19,Madurai,Tamil Nadu,Language,1.37,3.59,87,58.2
+ArjunGupta,Male,+91 8456019970,17,Kolkata,West Bengal,Economics,4.22,8.17,60,57.5
+IshanSharma,Male,+91 6810818852,4,Mysore,Karnataka,Economics,7.61,7.82,67,50.67
+KiaraPatel,Female,+91 7673856304,9,Ludhiana,Punjab,Language,1.46,5.46,83,76.14
+IshanPatel,Male,+91 9291319806,14,Bhubaneswar,Odisha,Science,7.92,6.33,97,88.21
+AanyaYadav,Female,+91 8615096592,18,Ludhiana,Punjab,History,2,4.02,92,73.18
+ShauryaPatel,Male,+91 7908526095,22,Coimbatore,Tamil Nadu,Philosophy,6.72,9.85,71,67.49
+KiaraSharma,Female,+91 9593961919,4,Ludhiana,Punjab,Politics,5.39,8.43,66,58.41
+IraReddy,Female,+91 8413448325,7,Kolkata,West Bengal,History,2.74,8,65,57.74
+NavyaKumar,Female,+91 7219158311,7,Kolkata,West Bengal,Language,2.86,8.18,96,73.24
+IshanSharma,Male,+91 9120846806,21,Coimbatore,Tamil Nadu,Language,3.33,6.23,74,71.12
+AnanyaJoshi,Female,+91 6051673767,6,Mysore,Karnataka,Geography,1.1,2.58,86,56.49
+AadyaReddy,Female,+91 6630908457,21,Indore,Madhya Pradesh,Politics,5.44,9.53,69,55.56
+AanyaJoshi,Female,+91 7728257772,13,Mysore,Karnataka,Politics,4.18,3.85,85,63.57
+AanyaSingh,Female,+91 6221608413,6,Guwahati,Assam,Geography,1.15,9.97,80,56.1
+AaravGupta,Male,+91 8573354585,4,Ahmedabad,Gujarat,Economics,1.68,2.53,77,67.29
+IshanGupta,Male,+91 8671372097,17,Guwahati,Assam,Philosophy,7.82,8.77,76,57.83
+AdityaKhan,Male,+91 7704913462,20,Patna,Bihar,Basic Coding Languages,4.11,4.65,82,63.97
+AryanJoshi,Male,+91 7461657993,3,Raipur,Chhattisgarh,Economics,7.23,7.2,59,53.78
+KiaraSharma,Female,+91 9327312667,19,Indore,Madhya Pradesh,Politics,5.71,2.55,68,54.53
+AdityaSingh,Male,+91 9069906830,22,Ludhiana,Punjab,Science,4.34,6.39,85,75.2
+KiaraPatel,Female,+91 6426075844,17,Raipur,Chhattisgarh,Mathematics,3.31,2.07,68,51.31
+ShauryaReddy,Male,+91 7396170945,7,Nashik,Maharashtra,Mathematics,5.13,8.07,72,66.11
+NavyaSingh,Female,+91 8133279817,20,Dehradun,Uttarakhand,Science,6.3,9.75,56,51.29
+AaravGupta,Male,+91 9333798728,5,Mysore,Karnataka,Politics,7,1.29,65,59.51
+ReyanshPatel,Male,+91 6613799223,12,Guwahati,Assam,Language,5.67,8.47,62,59.02
+IraJoshi,Female,+91 9935587924,14,Jaipur,Rajasthan,Language,3.54,7.28,81,58.64
+VivaanVerma,Male,+91 8161629317,5,Dehradun,Uttarakhand,Language,7.52,5.55,66,64.45
+MyraSharma,Female,+91 8424463305,21,Kolkata,West Bengal,Economics,4.14,2.31,95,72.9
+VivaanGupta,Male,+91 6060127983,5,Kolkata,West Bengal,Geography,6.41,3.65,79,72.48
+AadyaGupta,Female,+91 8994579519,15,Visakhapatnam,Andhra Pradesh,Politics,7.95,1.04,66,61.14
+AryanKhan,Male,+91 6168742008,10,Ranchi,Jharkhand,Language,5.67,4.63,90,73.23
+DiyaJoshi,Female,+91 6016444054,14,Mumbai,Maharashtra,Mathematics,6.63,3.33,50,50
+AanyaPatel,Female,+91 8213855723,13,Patna,Bihar,Politics,2.41,3.87,81,72.77
+KaranPatel,Male,+91 7490511039,3,Hyderabad,Telangana,History,7.23,5.17,60,59.1
+IshanYadav,Male,+91 9795688024,21,Bengaluru,Karnataka,Politics,1.66,7.59,70,51.95
+NavyaYadav,Female,+91 7023726368,22,Dehradun,Uttarakhand,Geography,1.12,3.78,65,64.18
+IshanYadav,Male,+91 6753126330,11,Mysore,Karnataka,Mathematics,5.81,7.85,52,50.88
+ArjunSingh,Male,+91 9004972270,20,Kolkata,West Bengal,Mathematics,1.27,5.59,78,57.7
+NavyaKumar,Female,+91 7973341538,3,Indore,Madhya Pradesh,Mathematics,2.27,3.34,70,68
+VivaanReddy,Male,+91 8912601548,5,Raipur,Chhattisgarh,Mathematics,3.93,1.31,93,80.24
+IshanYadav,Male,+91 6395308844,7,Thiruvananthapuram,Kerala,Mathematics,7.54,5.76,56,55.77
+AadyaVerma,Female,+91 7179330347,20,Mysore,Karnataka,Politics,2.37,3.99,75,60.96
+ShauryaPatel,Male,+91 7046032005,22,Agra,Uttar Pradesh,Politics,7.73,3.39,97,92
+AdityaKumar,Male,+91 7532499717,9,Bhubaneswar,Odisha,Basic Coding Languages,3.52,8.87,79,51.59
+AryanJoshi,Male,+91 6035732159,22,Kochi,Kerala,Language,2.91,9.91,72,58.85
+PariSharma,Female,+91 8288169334,4,Mumbai,Maharashtra,Science,5.34,4.37,56,50.11
+RohanJoshi,Male,+91 7095692635,10,Patna,Bihar,Mathematics,3.51,1.36,90,65.76
+MyraKhan,Female,+91 7718771495,8,Raipur,Chhattisgarh,Geography,7.18,3.08,65,55.44
+AaravSharma,Male,+91 8543384081,9,Raipur,Chhattisgarh,Politics,3.07,2.06,71,61.3
+AnanyaJoshi,Female,+91 8104613659,15,Indore,Madhya Pradesh,Politics,4.94,4.06,99,60.04
+AanyaKumar,Female,+91 8206899575,8,Ranchi,Jharkhand,Economics,3.79,9.16,79,55.62
+VivaanKhan,Male,+91 7444446732,13,Raipur,Chhattisgarh,Economics,1.23,4.22,77,74.24
+AaravGupta,Male,+91 8009649930,17,Jaipur,Rajasthan,Mathematics,3.44,6.88,65,54.7
+ShauryaKumar,Male,+91 7973823203,11,Ludhiana,Punjab,History,5.4,6.09,68,61.09
+DiyaGupta,Female,+91 8642935793,17,Kozhikode,Kerala,Science,4.28,3.19,67,59.6
+IraGupta,Female,+91 6803141956,12,Patna,Bihar,Language,1.43,3.05,57,54.5
+PariReddy,Female,+91 6269483708,21,Ranchi,Jharkhand,Politics,5.99,3.02,93,88.6
+MyraSharma,Female,+91 8683174056,12,Bhubaneswar,Odisha,Geography,7.08,5.25,65,55.68
+AnanyaGupta,Female,+91 7005296537,15,Meerut,Uttar Pradesh,Geography,4.15,6.67,74,67.27
+KaranSingh,Male,+91 9527458843,20,Patna,Bihar,Philosophy,7.06,5.19,92,74.47
+RohanPatel,Male,+91 8627847055,13,Coimbatore,Tamil Nadu,Basic Coding Languages,7.85,9.06,89,58.08
+KiaraKumar,Female,+91 9392777662,5,Dehradun,Uttarakhand,Language,5,8.49,93,55.86
+KiaraKhan,Female,+91 8621622547,16,Meerut,Uttar Pradesh,Science,2.49,4.76,60,59.72
+AadyaSharma,Female,+91 7750939830,20,Hyderabad,Telangana,Mathematics,6.85,2.53,52,50.25
+SiyaKhan,Female,+91 7916006976,16,Bengaluru,Karnataka,Science,2.27,2.71,89,68.69
+AaravPatel,Male,+91 6314610229,9,Visakhapatnam,Andhra Pradesh,Science,2.71,3.17,90,57.55
+AnanyaYadav,Female,+91 9674575712,5,Guwahati,Assam,Mathematics,3.47,6.28,74,51.44
+ShauryaKhan,Male,+91 6911730850,5,Kochi,Kerala,Language,5.79,1.14,90,57.09
+KiaraVerma,Female,+91 6658276074,18,Varanasi,Uttar Pradesh,Politics,5.03,3.19,57,56.92
+AadyaKhan,Female,+91 8393011815,21,Madurai,Tamil Nadu,Science,2.85,8.22,65,63.86
+VivaanSingh,Male,+91 8757194716,13,Bhubaneswar,Odisha,History,5.26,2.01,61,59.06
+NavyaVerma,Female,+91 8070577717,18,Jaipur,Rajasthan,Mathematics,7.43,5.22,57,53.56
+IraVerma,Female,+91 8893359729,20,Guwahati,Assam,Mathematics,2.11,2.69,98,82.2
+SiyaSharma,Female,+91 8254041343,10,Kolkata,West Bengal,Language,2.08,1.43,62,53.83
+SiyaKumar,Female,+91 8242306554,11,Surat,Gujarat,Basic Coding Languages,5.32,5.91,63,57.42
+KaranVerma,Male,+91 8631897649,4,Ahmedabad,Gujarat,Language,1.18,2.56,76,71.12
+NavyaSharma,Female,+91 6783303686,4,Coimbatore,Tamil Nadu,Mathematics,5.87,6.25,86,71.88
+VivaanVerma,Male,+91 9102781631,20,Bengaluru,Karnataka,Geography,1.51,9.8,54,50.14
+AnanyaGupta,Female,+91 7878443621,15,Surat,Gujarat,Geography,1.76,9.18,62,50.24
+AryanGupta,Male,+91 6921451701,16,Visakhapatnam,Andhra Pradesh,Language,4.4,8.39,57,53.6
+ArjunSingh,Male,+91 7308904365,13,Kanpur,Uttar Pradesh,Science,3.99,6.56,77,66.15
+AnanyaYadav,Female,+91 9660095933,6,Ludhiana,Punjab,History,6.39,7.55,96,71.44
+SiyaKhan,Female,+91 8014664837,14,Visakhapatnam,Andhra Pradesh,Economics,2.54,2.48,82,80.25
+KiaraGupta,Female,+91 6364013985,7,Jaipur,Rajasthan,Economics,5.58,9.01,81,58.74
+RohanGupta,Male,+91 7386908701,20,Patna,Bihar,Economics,1.49,4.34,52,50.84
+VivaanReddy,Male,+91 8190931948,16,Indore,Madhya Pradesh,Politics,3.07,3.76,76,60.47
+AryanVerma,Male,+91 9898533435,14,Visakhapatnam,Andhra Pradesh,History,4.78,2.19,86,73.16
+AdityaJoshi,Male,+91 9578714197,10,Kolkata,West Bengal,Language,5.62,7.55,79,52.89
+IraSharma,Female,+91 7569248778,13,Coimbatore,Tamil Nadu,Mathematics,7.08,7.92,82,60.82
+KiaraKhan,Female,+91 8068568540,13,Ludhiana,Punjab,Economics,4.03,9.17,59,57.86
+VivaanReddy,Male,+91 9829508942,6,Ludhiana,Punjab,Politics,2.84,9.92,87,72.75
+AryanSingh,Male,+91 8013412863,16,Bhubaneswar,Odisha,Politics,3.5,3.67,62,55.55
+ShauryaSharma,Male,+91 8350441244,20,Meerut,Uttar Pradesh,Economics,3.6,6.79,53,50.95
+AdityaReddy,Male,+91 7573276972,3,Kolkata,West Bengal,Language,7.49,3.11,91,60.44
+KaranKhan,Male,+91 7161253989,5,Guwahati,Assam,Language,2.67,9.91,63,51.68
+ShauryaVerma,Male,+91 7246348454,13,Jaipur,Rajasthan,Language,6,4.6,99,75.35
+IshanKumar,Male,+91 8461946522,9,Bhubaneswar,Odisha,Economics,5.19,3.32,99,93.09
+DiyaPatel,Female,+91 6750778499,11,Madurai,Tamil Nadu,Economics,7.24,5.25,57,56.2
+ReyanshYadav,Male,+91 8238330525,8,Ranchi,Jharkhand,Economics,5.61,7.44,55,50.78
+AnanyaSharma,Female,+91 6797181454,8,Guwahati,Assam,Geography,7.59,8.75,54,51.19
+RohanGupta,Male,+91 9103861821,12,Guwahati,Assam,Mathematics,7.17,9.7,72,68.88
+AryanJoshi,Male,+91 6553475745,20,Nagpur,Maharashtra,Philosophy,1.63,8.87,80,78.24
+IraPatel,Female,+91 8071272210,19,Jaipur,Rajasthan,History,6.09,5.55,74,61.64
+AryanKhan,Male,+91 9053497584,4,Lucknow,Uttar Pradesh,Economics,1.78,8.99,55,52.63
+NavyaKhan,Female,+91 6054831475,11,Coimbatore,Tamil Nadu,Geography,3.13,2.5,69,52.77
+NavyaGupta,Female,+91 6598744204,3,Ranchi,Jharkhand,Politics,4.66,8.55,77,67.01
+AdityaSingh,Male,+91 9694623270,12,Ranchi,Jharkhand,Economics,7.48,1.89,68,65.52
+VivaanSingh,Male,+91 7924413955,19,Bhubaneswar,Odisha,Language,3.23,1.88,86,79.4
+AaravPatel,Male,+91 7021316088,19,Nashik,Maharashtra,Politics,3.28,3.09,55,50.98
+ReyanshPatel,Male,+91 6731946866,14,Pune,Maharashtra,Geography,5.68,4.46,100,52.46
+AanyaSingh,Female,+91 7863838715,4,Hyderabad,Telangana,Mathematics,6.53,7.28,79,66.98
+AdityaReddy,Male,+91 8855675288,16,Bhubaneswar,Odisha,History,4.22,1.68,52,51.52
+RohanSharma,Male,+91 9285214583,9,Hyderabad,Telangana,Science,1.21,6.44,62,59.06
+PariYadav,Female,+91 8962567258,12,Raipur,Chhattisgarh,Language,3.55,7.59,58,50.16
+KaranKhan,Male,+91 6227532997,16,Kolkata,West Bengal,Basic Coding Languages,1.34,1.11,93,55.45
+AdityaJoshi,Male,+91 7603000005,18,Bhubaneswar,Odisha,Mathematics,2.73,3.09,56,53.16
+ReyanshKumar,Male,+91 9054791334,20,Nagpur,Maharashtra,Language,6.32,3.54,85,76.04
+KiaraKhan,Female,+91 8665138891,18,Hyderabad,Telangana,History,4.88,3.69,100,90.44
+PariGupta,Female,+91 9458561874,20,Ranchi,Jharkhand,History,1.24,3.54,62,53.51
+AdityaKumar,Male,+91 9238922867,18,Bengaluru,Karnataka,Science,1.1,9.78,87,77.48
+AanyaSharma,Female,+91 6360930168,15,Ahmedabad,Gujarat,Mathematics,7.17,1.92,50,50
+MyraKumar,Female,+91 8010202137,15,Agra,Uttar Pradesh,Economics,1.12,6.84,56,55.2
+RohanYadav,Male,+91 6810226222,7,Kozhikode,Kerala,Language,6.79,5.4,77,60.34
+AdityaReddy,Male,+91 7371796687,19,Ahmedabad,Gujarat,Philosophy,7.59,1.29,64,55.42
+AaravKumar,Male,+91 8978546745,3,Patna,Bihar,Language,2.59,6.45,70,50.59
+IshanKumar,Male,+91 7659719835,20,Ludhiana,Punjab,Geography,6.95,8.66,65,64.55
+KaranYadav,Male,+91 7672296783,10,Kanpur,Uttar Pradesh,Language,3.63,1.56,80,53.22
+AaravGupta,Male,+91 7704919263,5,Ahmedabad,Gujarat,Language,7.96,4.54,65,57.29
+SiyaGupta,Female,+91 7792788924,13,Bhubaneswar,Odisha,Mathematics,4.48,4.46,68,60.87
+AdityaJoshi,Male,+91 8558721300,22,Kolkata,West Bengal,Geography,1.26,9.1,67,65.77
+AnanyaSingh,Female,+91 7773533158,12,Thiruvananthapuram,Kerala,Politics,2.76,6.44,72,52.61
+AryanSingh,Male,+91 7208071132,11,Kolkata,West Bengal,Science,5.19,7.2,77,54.31
+SiyaVerma,Female,+91 6593734559,21,Raipur,Chhattisgarh,Economics,6.95,5.23,96,80.3
+AryanVerma,Male,+91 7374161544,16,Patna,Bihar,Politics,6.16,9.81,88,71.96
+AryanYadav,Male,+91 8854448772,19,Indore,Madhya Pradesh,Philosophy,1.02,1.1,93,60.39
+DiyaGupta,Female,+91 9320992530,19,Visakhapatnam,Andhra Pradesh,History,7.23,5.88,71,61.35
+MyraSharma,Female,+91 7157965723,13,Raipur,Chhattisgarh,Basic Coding Languages,7.08,1.96,53,51.69
+AryanPatel,Male,+91 6759576004,12,Ahmedabad,Gujarat,Basic Coding Languages,7.45,5.72,91,88.44
+IraKumar,Female,+91 8922669380,11,Kolkata,West Bengal,Basic Coding Languages,3.82,1.48,61,52.17
+AnanyaJoshi,Female,+91 9997860682,6,Surat,Gujarat,Mathematics,3.33,4.93,74,50.74
+ShauryaVerma,Male,+91 8202575677,4,Guwahati,Assam,Language,7.59,8.03,54,52.88
+MyraReddy,Female,+91 9728060451,15,Raipur,Chhattisgarh,Language,2.27,2.09,86,85.45
+ArjunSingh,Male,+91 7016377837,6,Mysore,Karnataka,Mathematics,4.31,1.05,96,77.04
+AryanSingh,Male,+91 8193434891,20,Dehradun,Uttarakhand,Science,1.08,6.63,58,51.06
+AryanYadav,Male,+91 6182698459,16,Kolkata,West Bengal,Science,4.49,4.54,51,50.83
+KaranYadav,Male,+91 7597642106,14,Visakhapatnam,Andhra Pradesh,Science,3.94,8.21,76,50.21
+AanyaGupta,Female,+91 6070280308,13,Varanasi,Uttar Pradesh,History,7.08,7.15,60,51.62
+DiyaJoshi,Female,+91 9130095740,8,Dehradun,Uttarakhand,Mathematics,3.28,7.11,66,65.41
+ShauryaKumar,Male,+91 6509764019,5,Nashik,Maharashtra,History,6.15,2.49,85,72.75
+AanyaReddy,Female,+91 8119731243,13,Kolkata,West Bengal,History,7.27,3.65,71,55.6
+AdityaReddy,Male,+91 6515542721,18,Thiruvananthapuram,Kerala,Philosophy,3.21,4.38,81,56.12
+AadyaSingh,Female,+91 7558609097,16,Bengaluru,Karnataka,Language,1.49,4.57,98,59.28
+SiyaVerma,Female,+91 8371014739,17,Visakhapatnam,Andhra Pradesh,Mathematics,7.04,8,73,61.52
+AadyaSingh,Female,+91 7966978813,11,Indore,Madhya Pradesh,Economics,3.92,5.47,54,51.69
+IshanJoshi,Male,+91 6249058232,12,Raipur,Chhattisgarh,History,1.63,2.87,55,52.56
+DiyaVerma,Female,+91 6419960355,10,Coimbatore,Tamil Nadu,Mathematics,4.46,6.8,90,62.03
+AaravGupta,Male,+91 9992525539,4,Coimbatore,Tamil Nadu,Geography,2.15,1.36,70,67.92
+ReyanshYadav,Male,+91 8421589869,7,Indore,Madhya Pradesh,Politics,7.2,2.24,97,73.45
+KiaraSharma,Female,+91 9729528052,15,Nashik,Maharashtra,Science,3.27,2.91,55,51.65
+AadyaSingh,Female,+91 8733293342,15,Bhubaneswar,Odisha,Politics,3.73,2.9,94,84.87
+VivaanVerma,Male,+91 7677783452,7,Ranchi,Jharkhand,History,5.76,5.97,89,83.81
+SiyaSingh,Female,+91 7811151650,10,Bengaluru,Karnataka,History,6.4,4.52,78,56.82
+ReyanshVerma,Male,+91 7778726556,20,Kozhikode,Kerala,Language,4.09,6.48,56,55.83
+NavyaKhan,Female,+91 8764511429,16,Surat,Gujarat,Philosophy,2.71,9.7,91,52.94
+IshanYadav,Male,+91 6690136753,22,Patna,Bihar,Philosophy,2.69,9.84,71,65.21
+IshanSingh,Male,+91 9618995458,5,Coimbatore,Tamil Nadu,History,6.78,1.57,83,69.32
+KiaraSingh,Female,+91 7291251529,7,Bhubaneswar,Odisha,Mathematics,2.82,1.21,78,55.16
+SiyaJoshi,Female,+91 9616236894,7,Visakhapatnam,Andhra Pradesh,Economics,7.91,9.4,81,65.38
+AanyaPatel,Female,+91 6218002859,11,Pune,Maharashtra,Politics,2.23,3.62,78,64.07
+IshanSharma,Male,+91 6726410481,16,Ahmedabad,Gujarat,History,5.96,5.02,88,54.65
+RohanSingh,Male,+91 8157353554,14,Nagpur,Maharashtra,Science,3.43,2.9,65,62.91
+IraKhan,Female,+91 8188666625,19,Patna,Bihar,Politics,3.02,1.62,79,78.3
+AryanVerma,Male,+91 9683699293,20,Ludhiana,Punjab,Economics,3.41,6.07,72,51.68
+PariYadav,Female,+91 8807163293,22,Kochi,Kerala,Mathematics,1.97,9.32,97,88.06
+KiaraPatel,Female,+91 6876418828,14,Indore,Madhya Pradesh,Politics,1.85,4.78,61,51.79
+ArjunVerma,Male,+91 9886405005,22,Bhubaneswar,Odisha,Geography,5.14,5.92,66,57.51
+PariReddy,Female,+91 6582484342,15,Hyderabad,Telangana,Mathematics,6.41,9.69,52,50.54
+IshanGupta,Male,+91 8796337691,22,Kozhikode,Kerala,Politics,5.06,8.55,97,72.81
+AdityaGupta,Male,+91 9644541342,4,Agra,Uttar Pradesh,Language,4.04,1.44,53,50.7
+PariKumar,Female,+91 6212529589,6,Ludhiana,Punjab,Mathematics,1.25,7.9,86,67.14
+KiaraReddy,Female,+91 7333925585,17,Guwahati,Assam,Science,1.93,6.12,61,59.65
+DiyaSingh,Female,+91 7229695408,21,Indore,Madhya Pradesh,Mathematics,7.07,8.24,89,72.88
+VivaanSingh,Male,+91 7518733745,18,Indore,Madhya Pradesh,Economics,7.26,1.68,76,65.73
+RohanKhan,Male,+91 7067134721,22,Guwahati,Assam,Science,4.38,4.14,81,59.49
+ShauryaVerma,Male,+91 9426294666,14,Patna,Bihar,Economics,1.09,3.6,66,57.5
+AaravReddy,Male,+91 7660491624,5,Mumbai,Maharashtra,Geography,1.26,1.73,86,70.41
+IraReddy,Female,+91 9906789128,12,Mysore,Karnataka,Mathematics,7.11,9.13,93,83.6
+VivaanPatel,Male,+91 7685461180,3,Varanasi,Uttar Pradesh,Mathematics,3.02,3.35,79,68.92
+IraYadav,Female,+91 6925132592,7,Visakhapatnam,Andhra Pradesh,Politics,2.87,4.45,66,54.3
+AaravSharma,Male,+91 8921415011,21,Kolkata,West Bengal,Economics,6.34,3.4,71,51.62
+AanyaGupta,Female,+91 7396111724,19,Raipur,Chhattisgarh,Language,3.16,1.29,50,50
+DiyaGupta,Female,+91 9851891168,3,Kochi,Kerala,History,2.58,9.77,78,77.96
+DiyaSingh,Female,+91 8469805809,8,Indore,Madhya Pradesh,Science,7.17,3.56,90,66.67
+IshanSingh,Male,+91 6496153903,10,Coimbatore,Tamil Nadu,Science,7.81,5.05,86,84.3
+IshanKumar,Male,+91 8873427794,11,Kozhikode,Kerala,Politics,5.92,8.44,63,50.59
+VivaanJoshi,Male,+91 8570705881,22,Patna,Bihar,Mathematics,4.27,2.53,58,57.57
+AdityaReddy,Male,+91 8055483694,17,Ranchi,Jharkhand,Science,3.54,2.64,73,68.22
+AaravKhan,Male,+91 6810441613,11,Kozhikode,Kerala,History,1.27,7.58,92,60.93
+IraVerma,Female,+91 6788543991,22,Pune,Maharashtra,Economics,7.81,6.49,86,74.88
+KaranKumar,Male,+91 6475232178,16,Hyderabad,Telangana,Language,4.8,9.28,94,60.12
+IshanReddy,Male,+91 8777495466,21,Bengaluru,Karnataka,Mathematics,7.01,1.32,61,50.4
+SiyaPatel,Female,+91 7583967372,15,Pune,Maharashtra,Science,7.46,2.48,83,80.72
+RohanReddy,Male,+91 8568723104,8,Indore,Madhya Pradesh,Economics,6.63,6.69,100,51.58
+ReyanshSharma,Male,+91 6624913715,3,Guwahati,Assam,History,5.57,8.34,82,59.19
+AnanyaJoshi,Female,+91 9621278080,14,Patna,Bihar,Language,3.18,2.66,65,50.58
+KiaraGupta,Female,+91 9736899846,9,Raipur,Chhattisgarh,Basic Coding Languages,2.61,4.4,73,69.83
+AanyaReddy,Female,+91 8742117478,12,Kochi,Kerala,History,5.8,9.81,97,62.15
+PariKhan,Female,+91 8493811701,5,Jaipur,Rajasthan,Mathematics,3.57,5.53,60,57.78
+KaranYadav,Male,+91 8217819819,8,Kochi,Kerala,Economics,3.92,4.66,92,50.03
+IraVerma,Female,+91 9900666806,11,Nagpur,Maharashtra,Economics,2.84,5.15,87,62.96
+KaranKumar,Male,+91 6970298820,22,Ahmedabad,Gujarat,Economics,3.35,3.17,64,58.98
+IshanSingh,Male,+91 6176095080,14,Kolkata,West Bengal,Basic Coding Languages,2.27,9.01,82,50.32
+AryanJoshi,Male,+91 8761374242,9,Nagpur,Maharashtra,Mathematics,1.07,3.23,66,62.87
+PariPatel,Female,+91 9158281150,14,Bengaluru,Karnataka,Mathematics,4.27,6.39,67,66.07
+AaravJoshi,Male,+91 6257037860,4,Hyderabad,Telangana,Mathematics,2.41,4.29,60,52.57
+ReyanshVerma,Male,+91 9329695126,22,Bengaluru,Karnataka,Economics,5.13,5.55,61,51.64
+AanyaKhan,Female,+91 7719777253,3,Ludhiana,Punjab,Language,6.8,9.69,69,55.25
+KaranJoshi,Male,+91 8372024926,8,Lucknow,Uttar Pradesh,Science,4.58,7.89,54,51.99
+DiyaVerma,Female,+91 9319708014,15,Kochi,Kerala,Geography,3.43,6.37,87,55.57
+ReyanshSingh,Male,+91 6449435696,19,Kolkata,West Bengal,Geography,6.5,8.12,64,63.28
+KaranVerma,Male,+91 7313464832,19,Bhubaneswar,Odisha,Mathematics,1.83,6.95,80,63.2
+MyraKhan,Female,+91 6440760665,21,Bengaluru,Karnataka,Basic Coding Languages,1.29,9.75,52,50.01
+ReyanshGupta,Male,+91 9974098840,12,Dehradun,Uttarakhand,Mathematics,3.45,4.29,76,59.88
+SiyaGupta,Female,+91 6466570152,19,Guwahati,Assam,Mathematics,3.82,4.06,88,81.12
+AaravGupta,Male,+91 9314447079,11,Visakhapatnam,Andhra Pradesh,Basic Coding Languages,7.93,5.64,87,81.27
+SiyaPatel,Female,+91 8069734992,8,Guwahati,Assam,Science,3.33,3.06,73,53.5
+ArjunGupta,Male,+91 8734185844,4,Thiruvananthapuram,Kerala,Mathematics,5.27,3.64,85,70.61
+AaravPatel,Male,+91 6681651291,14,Madurai,Tamil Nadu,Mathematics,7.07,1.5,61,58.34
+ShauryaSharma,Male,+91 6888200618,17,Bhubaneswar,Odisha,Philosophy,4.65,8.42,97,61.01
+KaranSingh,Male,+91 8248980097,13,Ludhiana,Punjab,Mathematics,1.49,3.63,75,65.33
+ShauryaVerma,Male,+91 8561744669,5,Dehradun,Uttarakhand,Economics,5.77,9.93,98,92.62
+IraPatel,Female,+91 6421670578,6,Bengaluru,Karnataka,Politics,7.38,4.49,89,60.74
+VivaanKumar,Male,+91 6785964757,22,Coimbatore,Tamil Nadu,Economics,7.69,6.63,92,85.03
+PariVerma,Female,+91 7386231682,18,Visakhapatnam,Andhra Pradesh,Basic Coding Languages,5.24,2.7,68,62.49
+MyraReddy,Female,+91 9200536667,8,Jaipur,Rajasthan,Geography,4.21,3.75,74,54.33
+AaravPatel,Male,+91 9482691452,3,Visakhapatnam,Andhra Pradesh,Science,1.68,2.77,67,60.36

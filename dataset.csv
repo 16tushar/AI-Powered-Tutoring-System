@@ -1,0 +1,11 @@
+subject,question,option1,option2,option3,option4,answer,difficulty
+Math,What is the derivative of sin(x)?,cos(x),cot(x),sin(x),tan(x),cos(x),easy
+Math,"If f(x) = x^2, what is f'(3)?",3,6,9,12,6,easy
+Math,Solve for x: 2x + 3 = 7,1,2,3,4,2,easy
+Math,What is the integral of e^x?,e^x + C,ln(x),1/x,x^2/2,e^x + C,medium
+Math,"Find the determinant of [[1,2],[3,4]]",-2,2,-1,1,-2,medium
+Science,What is the SI unit of electric charge?,Ampere,Coulomb,Farad,Henry,Coulomb,easy
+Science,Which law states that an object at rest stays at rest unless acted upon?,Newton's First Law,Newton's Second Law,Newton's Third Law,Law of Gravitation,Newton's First Law,easy
+Science,Which type of wave does not require a medium to propagate?,Sound waves,Water waves,Electromagnetic waves,Seismic waves,Electromagnetic waves,medium
+Science,What is the chemical formula of Ammonia?,NH3,CH4,H2O,CO2,NH3,easy
+Science,What does a transformer do?,Converts AC to DC,Changes voltage levels,Stores electrical energy,Generates electricity,Changes voltage levels,easy
