@@ -134,7 +134,6 @@ def results():
         recommendation=recommendation
     )
 
-
 @app.route("/history")
 def history():
     name = session.get("name")
